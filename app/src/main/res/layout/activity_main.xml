@@ -67,6 +67,14 @@
             android:layout_weight="1"
             android:text="Share"
             android:layout_margin="8dp"/>
+        <Button
+            android:visibility="gone"
+            android:id="@+id/button_save"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Save"
+            android:layout_margin="8dp"/>
     </LinearLayout>
 
 </RelativeLayout>
